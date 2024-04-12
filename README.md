@@ -9,7 +9,6 @@
     <img src="https://img.shields.io/badge/Typescript-3A75B0?style=flat-square&amp;logo=Typescript&amp;logoColor=white"><span style="width:5px;"/>
     <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&amp;logo=Javascript&amp;logoColor=black"><span style="width:5px;"/>
 </div>
-<br/>
 
 #### Framework / Library
 <div style="display:flex; flex-direction:row;">
